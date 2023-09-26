@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Kasia </h1>
-<h2 align="center">Frontend Developer</h2>
+<h3 align="center">Frontend Developer</h3>
 <!--
 **RosinskaK/RosinskaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
