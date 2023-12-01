@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 - 🌱 I’m currently progressing in **React.js**
-- 🧐 I’m these days learning **Docker**
+- 🧐 I’m learning **TypeScript, Docker**
 - 👯 I’m looking to collaborate on an Open Source Project based on React.js
 - 🔭 I’m working on **MOViEon project** - movie app modeled on streaming services such as SkyShowtime 🎞📽
 - go below to my repos to check it out 👇
