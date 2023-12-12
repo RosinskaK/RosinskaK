@@ -1,12 +1,12 @@
 <h1 align="center"> Hi 👋, I'm Kasia </h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently progressing in **React.js**
-- 🧐 I’m learning **TypeScript, Docker**
-- 👯 I’m looking to collaborate on an Open Source Project based on React.js
+- 🌱 I’m currently progressing in **React**
+- 👯 I’m looking to collaborate on an Open Source Project based on React
 - 🔭 I’m working on **MOViEon project** - movie app modeled on streaming services such as SkyShowtime 🎞📽
 - go below to my repos to check it out 👇
 
+<!--- 🧐 I’m learning **TypeScript, Docker** -->
 
 <!--
 **RosinskaK/RosinskaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,7 +40,5 @@ Here are some ideas to get you started:
 <!--  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextjs" width="40" height="40"/> </a> </a> -->
 <!--  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> -->
 <!--  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> -->
-<!--  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> -->
-
 
 <h3 align="center">⭐️ Check Out My Repos ⬇️ </h3>
