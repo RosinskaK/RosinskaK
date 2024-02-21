@@ -1,10 +1,10 @@
 <h1 align="center"> Hi 👋, I'm Kasia </h1>
 <h3 align="center">Front-end Developer</h3>
 
-
+- 🧐 I’m learning **TypeScript**
 - 🌱 I’m currently progressing in **React**
 - 👯 I’m looking to collaborate on an Open Source Project based on React
-- 🔭 I’m working on my own portfolio website now
+
 - 🎉 Projects that I recently finished:
 
    - **MOViEon project** - movie app modeled on streaming services such as SkyShowtime 🎞📽
@@ -14,6 +14,7 @@
 - go below to my repos to check it out 👇
 
 <!--- 🧐 I’m learning **TypeScript, Docker** -->
+<!-- - 🔭 I’m working on my own portfolio website now -->
 
 <!--
 **RosinskaK/RosinskaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
