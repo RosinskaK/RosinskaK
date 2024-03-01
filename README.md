@@ -7,9 +7,9 @@
 
 - 🎉 Projects that I recently finished:
 
-   - **MOViEon project** - movie app modeled on streaming services such as SkyShowtime 🎞📽
+   - <a href="https://github.com/RosinskaK/MOViEon_project" target="_blank" rel="noreferrer" rel="noopener"> MOViEon </a> - movie app modeled on streaming services such as SkyShowtime 🎞📽
 
-   - my first commercial project **Auto Skup Kraków** - simple webpage for a trading company
+   - my first commercial project <a href="https://github.com/RosinskaK/autoskup_c" target="_blank" rel="noreferrer" rel="noopener"> Auto Skup Kraków </a> - simple webpage for a trading company
      
 - go below to my repos to check it out 👇
 
@@ -43,9 +43,12 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/> </a>
 
+
+          
 <!-- <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" alt="cypress" width="100" height="70"/></a> -->
 <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> -->
 <!--  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextjs" width="40" height="40"/> </a> </a> -->
