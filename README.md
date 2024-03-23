@@ -3,7 +3,7 @@
 
 - 🧐 I’m learning **TypeScript**
 - 🌱 I’m currently progressing in **React**
-- 👯 I’m looking to collaborate on an Open Source Project based on React
+
 
 - 🎉 Projects that I recently finished:
 
@@ -21,6 +21,7 @@
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on an Open Source Project based on React
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -47,7 +48,10 @@ Here are some ideas to get you started:
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/> </a>
 
+<a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="cypress" width="50" height="45"/></a>
 
+
+          
           
 <!-- <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" alt="cypress" width="100" height="70"/></a> -->
 <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> -->
