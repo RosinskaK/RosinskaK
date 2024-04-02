@@ -3,7 +3,7 @@
 
 - 🧐 I’m learning **TypeScript**
 - 🌱 I’m currently progressing in **React**
-
+- 🔭 I’m working on a new project now - *Online_shop* -> fashion e-commerce shop 👗👔
 
 - 🎉 Projects that I recently finished:
 
@@ -64,4 +64,4 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> -->
 
 
-<h3 align="center">⭐️ Check Out My Repos ⬇️ </h3>
+<h3 align="center">⬇️ Check Out My Repos ⬇️ </h3>
