@@ -1,16 +1,19 @@
 <h1 align="center"> Hi 👋, I'm Kasia </h1>
 <h3 align="center">Front-end Developer</h3>
 
-- 🧐 I’m learning **TypeScript**
+- 🧐 I’m learning **TypeScript** and **Next.js**
 - 🌱 I’m currently progressing in **React**
-- 🔭 I’m working on a new project now - *Online_shop* -> fashion e-commerce shop 👗👔
+- 🔭 I’m working on a new project now - my own portfolio website!🤩
 
-- 🎉 Projects that I recently finished:
+- 🎉🥳️ Projects that I recently finished:
 
+   - <a href="https://onlineshop2024.netlify.app/" target="_blank" rel="noreferrer" rel="noopener"> Online_shop </a> -> fashion e-commerce shop 👗👔
+
+- see also my other projects:
    - <a href="https://github.com/RosinskaK/MOViEon_project" target="_blank" rel="noreferrer" rel="noopener"> MOViEon </a> - movie app modeled on streaming services such as SkyShowtime 🎞📽
 
    - my first commercial project <a href="https://github.com/RosinskaK/autoskup_c" target="_blank" rel="noreferrer" rel="noopener"> Auto Skup Kraków </a> - simple webpage for a trading company
-     
+
 - go below to my repos to check it out 👇
 
 <!--- 🧐 I’m learning **TypeScript, Docker** -->
@@ -48,11 +51,12 @@ Here are some ideas to get you started:
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/> </a>
 <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="cypress" width="50" height="45"/></a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 
      
 <!-- <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" alt="cypress" width="100" height="70"/></a> -->
 <!--  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextjs" width="40" height="40"/> </a> </a> -->
-<!--  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> -->
+
 <!--  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> -->
 <!-- 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="40" height="40"/> </a>
