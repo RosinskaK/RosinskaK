@@ -1,9 +1,10 @@
 <h1 align="center"> Hi 👋, I'm Kasia </h1>
 <h3 align="center">front-end developer</h3>
+<h3 align="center"><a href="https://kasiarosinska.netlify.app/" target="_blank" rel="noreferrer noopener">My portfolio</a></h3>
 
 - 🧐 I’m learning **TypeScript** and **Next.js**
 - 🌱 I’m currently progressing in **React**
-- 🔭 I’m working on a new project now - my own portfolio website!🤩
+- 🔭 I’m working on a new project now - <a href="https://kasiarosinska.netlify.app/" target="_blank" rel="noreferrer noopener">my own portfolio website!</a>🤩
 
 - 🎉🥳️ Projects that I recently finished:
 
@@ -14,7 +15,6 @@
 
    - my first commercial project <a href="https://github.com/RosinskaK/autoskup_c" target="_blank" rel="noreferrer" rel="noopener"> Auto Skup Kraków </a> - simple webpage for a trading company
 
-- go below to my repos to check it out 👇
 
 <!--- 🧐 I’m learning **TypeScript, Docker** -->
 <!-- - 🔭 I’m working on my own portfolio website now -->
