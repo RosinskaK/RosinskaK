@@ -24,9 +24,9 @@ My long-term goal is to specialize in business and financial systems (ERP / fint
 
 ### 🚀 Recent Projects
 
-- 🛍 **Online Shop** – Modern e-commerce application built with React, TypeScript, Redux Toolkit and React Query  
-- 🎬 **Movie App** – API-based movie search application  
-- 🚗 **Auto Skup Kraków** – My first commercial project (website for a trading company)
+- 🛍 **Online Shop** – Modern e-commerce application built with React, TypeScript, Redux Toolkit and React Query ➡️ live link:<a href="https://onlineshop2024.netlify.app/" target="_blank" rel="noreferrer" rel="noopener"> Online_shop </a>
+- 🎬 **Movie App** – API-based movie search application ➡️ live link:<a href="https://github.com/RosinskaK/MOViEon_project" target="_blank" rel="noreferrer" rel="noopener"> MOViEon </a>
+- 🚗 **Auto Skup Kraków** – My first commercial project (website for a trading company) ➡️ live link:<a href="https://github.com/RosinskaK/autoskup_c" target="_blank" rel="noreferrer" rel="noopener"> Auto Skup Kraków </a>
 
 👉 Check my repositories below to explore the code.
 
@@ -88,12 +88,23 @@ You can reach me via LinkedIn or through my portfolio website.
 
 - 🎉🥳️ Projects that I recently finished:
 
+
+
+
+
+
+
    - <a href="https://onlineshop2024.netlify.app/" target="_blank" rel="noreferrer" rel="noopener"> Online_shop </a> -> a fashion e-commerce shop 👗👔
 
 - see also my other projects:
    - <a href="https://github.com/RosinskaK/MOViEon_project" target="_blank" rel="noreferrer" rel="noopener"> MOViEon </a> - movie app modeled on streaming services such as SkyShowtime 🎞📽
 
    - my first commercial project <a href="https://github.com/RosinskaK/autoskup_c" target="_blank" rel="noreferrer" rel="noopener"> Auto Skup Kraków </a> - simple webpage for a trading company
+
+
+
+
+
 
 
 <!--- 🧐 I’m learning **TypeScript, Docker** -->
